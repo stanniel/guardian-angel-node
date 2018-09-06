@@ -1,0 +1,9 @@
+{
+    "name": "guardian-angel-socket",
+    "version": "0.0.1",
+    "description": "guardian angel socket.io backend",
+    "dependencies": {
+        "express": "^4.16.3",
+        "socket.io": "^2.1.1"
+    }
+}
